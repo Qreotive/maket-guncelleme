@@ -1,12 +1,12 @@
 {
  "kart": {
-  "surum": "0.7.0",
-  "url": "https://raw.githubusercontent.com/Qreotive/maket-guncelleme/main/kart-0.7.0.bin",
-  "imza": "MEQCIED8ENqMTyU4Eahw0aQVSrjhzKXmPzBH10tlmqzyXs7HAiAOA9WrkDGnG0EphyVyeZXAl2l/Nibqe/S3HLdpHODXKQ=="
+  "surum": "0.7.1",
+  "url": "https://raw.githubusercontent.com/Qreotive/maket-guncelleme/main/kart-0.7.1.bin",
+  "imza": "MEUCIQCqkAOHF4ydbQAjC2M7PshDjb9nvyCaENe2LKtQHeKyMwIgYRf/Q4m2H9ELNnN6/QxKV1DQJGpbY7dXY/U5t+nRV24="
  },
  "tablet": {
-  "surum": 10,
-  "url": "https://raw.githubusercontent.com/Qreotive/maket-guncelleme/main/tablet-10.apk",
-  "imza": "MEUCIQCBm9It/h+4YeOdP5uetjTvk/0f4RbIkzuacjrXftVLDwIgOLq420ge+edbN4zn8DhhONjQeOnY7d1f/xmT8/0J73U="
+  "surum": 11,
+  "url": "https://raw.githubusercontent.com/Qreotive/maket-guncelleme/main/tablet-11.apk",
+  "imza": "MEQCIBy2gPdEL0I3v7I+Al+1S+28wf79N3KWa2bYFuOkS2oqAiAFsVfkEupUy9OJRAfPvHCV2df6rppxYhQf5OhlXe+3eg=="
  }
 }
